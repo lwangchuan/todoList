@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyj8330328/todoList.git"
+    "url": "git+https://github.com/lwangchuan/todoList.git"
   },
   "keywords": [
     "lyj"
   ],
-  "author": "liyuanjun",
+  "author": "longxu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lyj8330328/todoList/issues"
+    "url": "https://github.com/lwangchuan/todoList/issues"
   },
-  "homepage": "https://github.com/lyj8330328/todoList#readme"
+  "homepage": "https://github.com/lwangchuan/todoList#readme"
 }
